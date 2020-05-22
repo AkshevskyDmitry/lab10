@@ -1,0 +1,6 @@
+C:\Users\Dmitr\Videos\Lab10-master (3)\Lab10-master\ПРИМЕР\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Dmitr\Videos\Lab10-master (3)\Lab10-master\ПРИМЕР\Net.Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\Videos\Lab10-master (3)\Lab10-master\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.dll
+C:\Users\Dmitr\Videos\Lab10-master (3)\Lab10-master\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.pdb
+C:\Users\Dmitr\Videos\Lab10-master (3)\Lab10-master\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.dll
+C:\Users\Dmitr\Videos\Lab10-master (3)\Lab10-master\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.pdb
